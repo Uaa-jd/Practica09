@@ -22,7 +22,7 @@ public class Practica09 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        String ruta = "/home/ing_jd/Documents/Curso_Git/Test_PF_Git/Registro.txt";
+        String ruta = "/home/ing_jd/Documents/Curso_Git/Test_PF_Git/RegistroII.txt";
         String contenido = "Administrador;123456;";
 
         try 
